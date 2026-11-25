@@ -1,0 +1,6 @@
+,R2,MAE,RMSE,MAPE
+Linear Regression,0.614,62.96,111.53,28.67
+KNN,0.671,57.44,102.95,26.65
+Decision Tree,0.62,63.49,110.62,29.2
+Random Forest,0.71,53.43,96.61,24.33
+XGBoost,0.741,50.88,91.41,23.11

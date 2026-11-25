@@ -1,0 +1,16 @@
+,importance
+cat__room_type_Entire home/apt,0.4162464280340402
+num__bathrooms,0.11002688893142742
+num__distance_centre,0.1000593377722425
+num__bedrooms,0.040868686131144694
+num__accommodates,0.034767946737983495
+num__availability_30,0.032333159123395315
+num__longitude,0.030249908585063476
+num__latitude,0.026600661970396785
+num__amenities_count,0.025745126398503227
+num__availability_365,0.021158413784167964
+num__minimum_nights,0.018171750878886832
+num__host_listings_count,0.017964530540799776
+num__review_scores_rating,0.017305543173743176
+num__number_of_reviews,0.015380741856754766
+num__has_air_conditioning,0.011145162696405411
